@@ -1,6 +1,6 @@
-# 📘 Carbon Emission Prediction System (AICTE Project)
+# Carbon Emission Prediction System (AICTE Project)
 
-## 🔍 Overview  
+## Overview  
 This project focuses on analyzing global environmental and economic data to **predict carbon emissions** and understand the factors influencing climate change.
 
 The goal was not just to build a model, but to create a system that:
@@ -11,7 +11,7 @@ The goal was not just to build a model, but to create a system that:
 
 ---
 
-## 🎯 Problem Statement  
+## Problem Statement  
 Carbon emissions are one of the biggest contributors to climate change. However, emission levels are influenced by multiple factors like:
 - Energy consumption  
 - GDP growth  
@@ -22,7 +22,7 @@ The challenge is to **combine all these variables and predict CO₂ emissions ac
 
 ---
 
-## 📊 Dataset & Challenges  
+## Dataset & Challenges  
 - Source: Global climate + economic dataset  
 - Size: ~13,500 rows, 28+ features  
 
@@ -34,7 +34,7 @@ The challenge is to **combine all these variables and predict CO₂ emissions ac
 
 ---
 
-## 🛠️ Approach
+## Approach
 
 ### 1. Data Cleaning  
 - Removed irrelevant columns (`SCALE`, `Decimals`, etc.)  
@@ -96,14 +96,14 @@ The challenge is to **combine all these variables and predict CO₂ emissions ac
 
 ---
 
-## 💡 Key Insights  
+## Key Insights  
 - Energy consumption and GDP strongly influence emissions  
 - Urban population growth impacts emission levels  
 - Developing regions show faster emission growth trends  
 
 ---
 
-## 🚀 Project Highlights  
+## Project Highlights  
 - Works on **real-world messy data (not pre-cleaned datasets)**  
 - Focus on **data understanding + preprocessing**  
 - Logical handling of missing values  
